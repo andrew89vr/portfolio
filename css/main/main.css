@@ -1,0 +1,22 @@
+/* PLEASE USE FLEXBOX */
+
+.main-content
+{
+    margin: 0 auto;
+    width: 1280px;
+    border: 1px solid black;
+    clear: both;
+}
+.placeholder
+{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    float: left;
+    margin: 0 2%;
+}
+
+.footer
+{
+    clear: both;
+}
